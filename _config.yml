@@ -11,7 +11,7 @@ city: Bangalore
 state: TN
 zip_code: 560068
 country: India
-phone: (716) 555-5555
+phone: +91 80 4956 3512
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

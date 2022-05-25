@@ -3,7 +3,7 @@ title: OTZO
 subtitle: by tchzo
 email: contact@tchzo.com
 description: A solution designed to manage client and your auto garage.
-baseurl: "/otzo.tchzo.com" # the subpath of your site, e.g. /blog
+baseurl: "/otzo" # the subpath of your site, e.g. /blog
 url: http://otzo.tchzo.com/
 author: otzo
 street_address: 1569, 19th Main, AECS A block, Singasandra

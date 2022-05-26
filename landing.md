@@ -1,7 +1,7 @@
 ---
 title: Why otzo?
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Get an Instant power for Your Customer and Garage'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

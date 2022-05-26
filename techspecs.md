@@ -81,9 +81,9 @@
 		<p>Phonenumber and OTP authenticalion</p>
 	</dd>
 	</dl>
-	<h4>Payment</h4>
-	<b>Gateway: </b>Razorpay PCI DSS Level 1 compliant
-	<b>Payment Methods</b>
+	<h4>Payment Gateway</h4>
+	Razorpay PCI DSS Level 1 compliant
+	<h4>Payment Methods</h4>
 		<ul>
 			<li>UPI</li>
 			<li>Bharat QR</li>

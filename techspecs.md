@@ -2,11 +2,11 @@
 <section id="one">
 	<div class="inner">
 	<h4>iOS requirements</h4>
-	<p>otzo Client App and Admin App apps require iOS 12.2 or higher.</p>
+	otzo Client App and Admin App apps require iOS 12.2 or higher.
 	<h4>Android requirements</h4>
-	<p>otzo Client App and Admin App apps require Android 5.0 or higher.</P>
+	otzo Client App and Admin App apps require Android 5.0 or higher.
 	<h4>Windows requirements</h4>
-	<p>Windows: Windows 7, Windows 8, Windows 8.1, Windows 10 or later</p>
+	Windows: Windows 7, Windows 8, Windows 8.1, Windows 10 or later
 	<h4>Browser Version Requirements</h4>
 	<ul>
 			<li>Safari: 12.1 or higher for iOS devices</li>
@@ -49,7 +49,7 @@
 			<li>Staff</li>
 		</ul>
 	<h4>Web App</h4>
-	<p>otzo recharge</p>
+	otzo recharge
 	<h4>URLS that need to be safe listed</h4>
 		<ul>
 			<li>https://www.tchzo.com</li>

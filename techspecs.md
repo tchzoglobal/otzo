@@ -1,3 +1,10 @@
+---
+layout: page
+title: Tech specs
+image: assets/images/pic01.jpg
+nav-menu: true
+---
+
 <div id="main" class="alt">
 <section id="one">
 	<div class="inner">

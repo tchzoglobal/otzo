@@ -1,4 +1,6 @@
 <div id="main" class="alt">
+<section id="one">
+	<div class="inner">
 	<h4>iOS requirements</h4>
 	<p>otzo Client App and Admin App apps require iOS 12.2 or higher.</p>
 	<h4>Android requirements</h4>
@@ -97,4 +99,6 @@
 	Google
 	<h4>Application Delivery</h4>
 	Google Play store,  Apple app store and web site
+</div>
+</section>
 </div>

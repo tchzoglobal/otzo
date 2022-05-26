@@ -44,7 +44,7 @@ nav-menu: true
 	</section>
 	<section>
 		
-			<img src="{% link assets/images/module.jpg %}" alt="" data-position="top center" />
+		<img src="{% link assets/images/module.jpg %}" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">

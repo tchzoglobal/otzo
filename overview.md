@@ -25,50 +25,62 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Key capabilities</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+				<p>otzo includes the following key capabilities</p>
+				<ul>
+					<li>An admin app for managing appointment with improved visibility and more accurate promise dates</li>
+					<li>A client app which provide customers with accurate and timely alerts and updates.</li>
+					<li>Integrated customer service processes to provide a seamless customer fulfilment experience.</li>
+					<li>A unified communication platform between you and your customer.</li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Modules</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+				<p>The essence of otzo to make Service without Compromise</p>
+				<ul>
+					<li>Appointment</li>
+					<li>Accounts</li>
+					<li>Bills</li>
+					<li>Calendar</li>
+					<li>Customer</li>
+					<li>Inventory</li>
+					<li>Message</li>
+					<li>Notification</li>
+					<li>Offers</li>
+					<li>Package</li>
+					<li>Profile</li>
+					<li>Reports</li>
+					<li>Service Booking</li>
+					<li>Shift Management</li>
+					<li>Staff management</li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Application Platform</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>A robust cloud based software as a service platform to meet the needs of auto garage management. </p>
+				
 			</div>
 		</div>
 	</section>

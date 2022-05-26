@@ -12,10 +12,13 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		
+		<p>Amidst increased competitive environment and growing customer demand, fulfilling customer service has become increasingly complex.
+</p><p>otzo is a mobile software as a solution that tracks customer from appointment to billing and manages processes and data connected to the service as it moves through its service life cycle.
+</p><p>otzo manages all information, including service data, inventory management, billing, costing and thus enables business users to dynamically make changes to service processes.
+</p><p>otzo enables auto garages to increase service booking and provide platform for providing offers to customer which improves customer loyalty and increase share of wallet. Auto garages can also make better decisions on how to promise and fulfil customer services that results in improved profitability and customer satisfaction.
+</p><p>The various modules and key features of otzo allow auto garages to track and manage service from inception to delivery and after sales servicing and scheduling. Auto garages can configure and set up service offerings, promotional offers and packages to attract and increase the footfall. 
+</p>
 	</div>
 </section>
 

@@ -5,7 +5,7 @@
 	<p>otzo Client App and Admin App apps require iOS 12.2 or higher.</p>
 	<br>
 	<h4>Android requirements</h4>
-	<p>otzo Client App and Admin App apps require Android 5.0 or higher.</<p>>
+	<p>otzo Client App and Admin App apps require Android 5.0 or higher.</p>
 	<h4>Windows requirements</h4>
 	<p>Windows: Windows 7, Windows 8, Windows 8.1, Windows 10 or later</p>
 	<h4>Browser Version Requirements</h4>

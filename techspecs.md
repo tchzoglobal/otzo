@@ -8,6 +8,9 @@ nav-menu: true
 <div id="main" class="alt">
 <section id="one">
 	<div class="inner">
+	<header class="major">
+		<h1>Texh specs</h1>
+	</header>
 	<h4>iOS requirements</h4>
 	<p>otzo Client App and Admin App apps require iOS 12.2 or higher.</p>
 	<br>

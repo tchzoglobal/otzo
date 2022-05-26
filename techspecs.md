@@ -5,8 +5,121 @@ description: Reassuring the performance
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<div id="main" class="alt">
+	<h4>iOS requirements</h4>
+	<p>otzo Client App and Admin App apps require iOS 12.2 or higher.</p>
+	<h4>Android requirements</h4>
+	<p>otzo Client App and Admin App apps require Android 5.0 or higher.</P>
+	<h4>Windows requirements</h4>
+	<p>Windows: Windows 7, Windows 8, Windows 8.1, Windows 10 or later</p>
+	<h4>Browser Version Requirements</h4>
+	<p>
+		<ul>
+			<li>Safari: 12.1 or higher for iOS devices</li>
+			<li>Chrome preferred: Evergreen (latest available) for Android and Windows devices</li>
+			<li>Chrome minimum: v86</li>
+		</ul>
+	</p>
+	<h4>Device</h4>
+	<p>
+		<ul>
+			<li>All devices that support the mobile operating systems listed above</li>
+			<li>Tablet devices are supported for client and admin app but application screens are designed for smaller phone screens</li>
+			<li>otzo recharge app works on any device from small screen to large screen</li>
+		</ul>
+	</p>
+	<h4>Features - Client App</h4>
+	<p>
+		<ul>
+			<li>Appointment</li>
+			<li>Bills</li>
+			<li>Message</li>
+			<li>Notification</li>
+			<li>Offers</li>
+			<li>Package</li>
+			<li>Profile</li>
+			<li>Service Booking</li>
+		</ul>
+	</p>
+	<h4>Features - Admin App</h4>
+	<p>
+		<ul>
+			<li>Appointment</li>
+			<li>Accounts</li>
+			<li>Bills</li>
+			<li>Calendar</li>
+			<li>Customer</li>
+			<li>Inventory</li>
+			<li>Message</li>
+			<li>Notification</li>
+			<li>Offers</li>
+			<li>Package</li>
+			<li>Profile</li>
+			<li>Reports</li>
+			<li>Service Booking</li>
+			<li>Shift</li>
+			<li>Staff</li>
+		</ul>
+	</p>
+	<h4>Web App</h4>
+	<p>otzo recharge</p>
+	<h4>URLS that need to be safe listed</h4>
+	<p>
+		<ul>
+			<li>https://www.tchzo.com</li>
+			<li>https://www.otzo.tchzo.com</li>
+			<li>https://www.otzorecharge.tchzo.com</li>
+			<li>https://www.google.co.in/maps</li>
+		</ul>
+	</p>
+	<h4>Device Permissions</h4>
+	<p>
+		<ul>
+			<li>Camera</li>
+			<li>Location</li>
+			<li>Phone</li>
+			<li>SMS</li>
+			<li>Storage</li>
+			<li>Files and media</li>
+		</ul>
+	</p>
+	<h4>Security</h4>
+	<dl>
+	<dt>website</dt>
+	<dd>
+		<p>https: SSL Certified</p>
+	</dd>
+	<dt>Data security</dt>
+	<dd>
+		<p>Google Cloud Security</p>
+	</dd>
+	<dt>App security</dt>
+	<dd>
+		<p>Phonenumber and OTP authenticalion</p>
+	</dd>
+	</dl>
+	<p>
+	</p>
+	<h4>Payment</h4>
+	<p>
+	<b>Gateway: </b>Razorpay PCI DSS Level 1 compliant
+	</p>
+	<p>
+	<b>Payment Methods</b>
+		<ul>
+			<li>UPI</li>
+			<li>Bharat QR</li>
+			<li>All major debit and credit cards</li>
+			<li>50+ Netbanking Options</li>
+			<li>Mobile Wallets</li>
+		</ul>
+	</p>
+	<h4>Message Partners</h4>
+		<p>Google and Textlocal (A Cisco company)</p>
+	<h4>Notification</h4>
+		<p>Expo</p>
+	<h4>Database, Image and Files Provider</h4>
+	<p>Google</p>
+	<h4>Application Delivery</h4>
+	<p>Google Play store,  Apple app store and web site</p>
+</div>

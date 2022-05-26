@@ -20,8 +20,8 @@ nav-menu: true
 			<p>Otzo is the right solution for your business if you wish to empower and facilitate promotion. Otzo provides with tools needed to create service offering, promos and packages to entice the customer. </p>
 			<h4>Interactive communication</h4>
 			<p>Otzo messaging are one of the most interactive and the closest to real-life experience you can find out there. Messaging capabilities allow customers to feel more connected during a service and engage better with their your garage.
-<br/>With otzo you can easily schedule an appointment to your customer and choose the timeslot that will suit you and your customer. otzo syncs with calendar. Therefore, all your scheduled appointments will automatically appear in your calendar.
-</p>
+			<br/>With otzo you can easily schedule an appointment to your customer and choose the timeslot that will suit you and your customer. otzo syncs with calendar. Therefore, all your scheduled appointments will automatically appear in your calendar.
+			</p>
 			<h4>Secure app</h4>
 			<p>With OTP authentication otzo provides immense security to your data. Your customer is confined and attached only to you and are not visible to others.  </p>
 			<h4>File storage</h4>
@@ -33,5 +33,5 @@ nav-menu: true
 			<h4>Reports</h4>
 			<p>Otzo present adequate information on various aspects of your business. otzo provides a means to track and analyse the performance and overall health of your business while identifying areas for improvement and opportunities for growth.</p>
 		</div>
-	<section>
+	</section>
 </div>

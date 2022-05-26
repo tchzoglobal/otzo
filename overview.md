@@ -83,20 +83,130 @@ nav-menu: true
 				
 			</div>
 		</div>
-	</section>
+	
 </section>
+<section>
+		
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Reports</h3>
+				</header>
+				<p>Business Intelligence reports help users gather, store, and analyze data stored in otzo, and make intelligent and informed decisions about conducting their business.</p>
+				
+			</div>
+		</div>
+	</section>
+	<section>
+		
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Installation</h3>
+				</header>
+				<p>A do it yourself installation from Google play store or Apple app store. All you need is active internet connection and a mobile connection for authentication and completing the installation.</p>
+				
+			</div>
+		</div>
+	
+</section>
+<section>
+		
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Upgrades</h3>
+				</header>
+				<p>The enhancements in a new release of the application can affect many parts of your business environment. Therefore, ensure to migrate to the new release which are mostly automatic. </p>
+				
+			</div>
+		</div>
+	</section>
+	<section>
+		
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Configuring</h3>
+				</header>
+				<p>You can configure the modules that are packaged with otzo. Profile is a module which needs to be configured immediately.</p>
+				
+			</div>
+		</div>
+	</section>
 
+<section>
+		
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Administering</h3>
+				</header>
+				<p>Easy to use otzo administration interface helps you to efficiently complete pricing-related packages, define service offerings, product offers. </p>
+				
+			</div>
+		</div>
+	</section>
+	<section>
+		
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Messaging</h3>
+				</header>
+				<p>Otzo uses push notification, sms, chat for customer interaction, appointments management, recharge and service completion.</p>
+				
+			</div>
+		</div>
+	</section>
+	
+	<section>
+		
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Performance</h3>
+				</header>
+				<p>Being a cloud application, otzo is very robust and can meet and match any performance metrics. </p>
+				
+			</div>
+		</div>
+	</section>
+	<section>
+		
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Security</h3>
+				</header>
+				<p>Security refers to the protection of sensitive data and resources by controlling access to otzo and other assets. We have designed the otzo app with utmost security. </p>
+				
+			</div>
+		</div>
+	</section>
+	
+</section>
 <!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Troubleshooting</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		<p>Before contacting us check tutorials and faq’s to determine if the situation has already been reported and addressed. Sometimes find a new release that may solve your problem. We have provided a help section to overcome with your difficulties and issues. We accept support request to overcome challenges and issues. 
+<br/>Understanding serviceability
+We may take some time to diagnose and troubleshoot issues in the application ad will surely keep you in loop. 
+</p>
 	</div>
 </section>
+
+
 
 </div>

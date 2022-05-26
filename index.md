@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'otzo, Runs your auto garage forward'
+landing-title: 'otzo, Driven to Serve better'
 description: null
 image: null
 author: null

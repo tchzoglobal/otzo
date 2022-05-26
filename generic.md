@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech Specs
-description: Lorem ipsum dolor est
+description: Reassuring the performance
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Recharge
+landing-title: 'Recharge'
 nav-menu: true
 description: null
 image: null

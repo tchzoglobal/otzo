@@ -83,7 +83,7 @@
 	</dd>
 	</dl>
 	<h4>Payment Gateway</h4>
-	Razorpay PCI DSS Level 1 compliant
+	<p>Razorpay PCI DSS Level 1 compliant</p>
 	<h4>Payment Methods</h4>
 		<ul>
 			<li>UPI</li>

@@ -2,7 +2,6 @@
 layout: post
 title: Tech Specs
 description: Reassuring the performance
-image: assets/images/pic11.jpg
 nav-menu: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Terms
 description: Terms & Conditions
-nav-menu: true
+nav-menu: false
 ---
 
 <div id="main" class="alt">

@@ -28,7 +28,7 @@ nav-menu: true
             Log Data
             </h4>
             <p>
-            We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.<p>
+            We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.</p>
             
             <h4>
             Cookies
@@ -41,7 +41,7 @@ nav-menu: true
             Service Providers
             </h4>
             <p>
-            We may employ third-party companies and individuals due to the following reasons:<p>
+            We may employ third-party companies and individuals due to the following reasons:</p>
             <ul>
             <li>To facilitate our Service</li>
             <li>To provide the Service on our behalf</li>

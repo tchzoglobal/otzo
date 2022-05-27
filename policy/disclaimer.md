@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Disclaimer
+title: post
 description: Disclaimer
 ---
 <div id="main" class="alt">

@@ -2,7 +2,7 @@
 layout: post
 title: Disclaimer
 description: Disclaimer
-category: policy
+frontpage: noshow
 ---
 <div id="main" class="alt">
 	<section id="one">

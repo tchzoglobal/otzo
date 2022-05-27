@@ -1,3 +1,5 @@
+{% for post in site.posts %}
+{% unless post.category == "policy" %}
 {% if 'posts' == site.tiles-source %}
     {% assign tiles = site.posts %}
 {% elsif 'pages' == site.tiles-source %}
@@ -16,3 +18,6 @@
   </article>
   {% endfor %}
 </section>
+{%endunless}
+
+   {%endfor}

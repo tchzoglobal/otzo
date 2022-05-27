@@ -2,7 +2,7 @@
 layout: post
 title: Terms
 description: Terms & Conditions
-category: policy
+frontpage: noshow
 ---
 
 <div id="main" class="alt">

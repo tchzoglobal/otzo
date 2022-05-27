@@ -2,7 +2,7 @@
 layout: post
 title: privacy
 description: Privacy Policy
-category: policy
+frontpage: noshow
 ---
 <div id="main" class="alt">
 	<section id="one">

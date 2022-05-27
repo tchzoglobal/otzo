@@ -5,6 +5,7 @@ description: Privacy Policy
 nav-menu: true
 ---
 <div id="main" class="alt">
+	<section id="one">
 <h3>Privacy Policy</h3> 
   <p> 
             www.tchzo.com built the otzo app. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</p> 
@@ -82,5 +83,6 @@ nav-menu: true
             <p>
             If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at contact@tchzo.com
             </p>
+	</section>
   </div>
             

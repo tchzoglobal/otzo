@@ -2,7 +2,6 @@
 layout: post
 title: privacy
 description: Privacy Policy
-image: assets/images/pic11.jpg
 nav-menu: true
 ---
 <div id="main" class="alt">
@@ -80,7 +79,7 @@ nav-menu: true
             </p>
             <h4>
             Contact Us
-            </h4t>
+            </h4>
             <p>
             If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at contact@tchzo.com
             </p>

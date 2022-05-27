@@ -31,7 +31,9 @@
     <div id="main">
 
         <!-- One -->
+	{% if page.frontpage contains "noshow" %}
         {% include tiles.html %}
+	{% endif %}
 
         <!-- Two -->
         <section id="two">

@@ -1,7 +1,7 @@
 ---
 title: Overview
 layout: landing
-description: 'Putting you on road of reliability <br /> Get smiles for your service.'
+description: 'Putting you on road of reliability'
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -26,7 +26,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		
-			<img src="{% link assets/images/capablity.jpg %}" alt="" data-position="center center" />
+		<img src="{% link assets/images/capablity.jpg %}" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -44,7 +44,7 @@ nav-menu: true
 	</section>
 	<section>
 		
-		<img src="{% link assets/images/module.jpg %}" alt="" data-position="25% 25%" />
+		<img src="{% link assets/images/module.jpg %}" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -87,7 +87,7 @@ nav-menu: true
 </section>
 <section>
 		
-			<img src="{% link assets/images/report.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/report.jpg %}" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -100,7 +100,7 @@ nav-menu: true
 	</section>
 	<section>
 		
-			<img src="{% link assets/images/install.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/install.jpg %}" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -114,7 +114,7 @@ nav-menu: true
 </section>
 <section>
 		
-			<img src="{% link assets/images/upgrade.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/upgrade.jpg %}" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -127,7 +127,7 @@ nav-menu: true
 	</section>
 	<section>
 		
-			<img src="{% link assets/images/config.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/config.jpg %}" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -168,7 +168,7 @@ nav-menu: true
 	
 	<section>
 		
-			<img src="{% link assets/images/performance.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/performance.jpg %}" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -181,7 +181,7 @@ nav-menu: true
 	</section>
 	<section>
 		
-			<img src="{% link assets/images/security.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/security.jpg %}" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">

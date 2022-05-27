@@ -2,7 +2,6 @@
 layout: post
 title: privacy
 description: Privacy Policy
-nav-menu: true
 ---
 <div id="main" class="alt">
 	<section id="one">

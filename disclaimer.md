@@ -2,7 +2,6 @@
 layout: post
 title: Disclaimer
 description: Disclaimer
-nav-menu: true
 ---
 <div id="main" class="alt">
 	<section id="one">

@@ -4,6 +4,7 @@ layout: landing
 description: 'Putting you on road of reliability'
 image: assets/images/pic01.jpg
 nav-menu: true
+frontpage: show
 ---
 
 <!-- Main -->

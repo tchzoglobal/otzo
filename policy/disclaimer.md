@@ -2,7 +2,7 @@
 layout: post
 title: Disclaimer
 description: Disclaimer
-frontpage: noshow
+frontpage: hide
 ---
 <div id="main" class="alt">
 	<section id="one">

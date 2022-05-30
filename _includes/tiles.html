@@ -5,9 +5,10 @@
 {% elsif 'pages' == site.tiles-source %}
     {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
 {% endif %}
-{% if page.frontpage == "show" %}
+
 <section id="one" class="tiles">
   {% for tile in tiles limit:site.tiles-count %}
+    {% if page.frontpage == "show" %}
   <article>
     <span class="image">
       <img src="{{ tile.image }}" alt="{{ tile.title }}" />
@@ -18,9 +19,6 @@
       <p>{{ tile.description }}</p>
     </header>
   </article>
+    {% endif %}
   {% endfor %}
 </section>
-{% endif %}
-
-
-

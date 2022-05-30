@@ -2,7 +2,7 @@
 layout: post
 title: Terms
 description: Terms & Conditions
-frontpage: noshow
+frontpage: hide
 ---
 
 <div id="main" class="alt">

@@ -2,7 +2,7 @@
 layout: post
 title: privacy
 description: Privacy Policy
-frontpage: noshow
+frontpage: hide
 ---
 <div id="main" class="alt">
 	<section id="one">

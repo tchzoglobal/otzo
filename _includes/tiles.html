@@ -8,7 +8,7 @@
 
 <section id="one" class="tiles">
   {% for tile in tiles limit:site.tiles-count %}
-    {% if page.frontpage == "show" %}
+    
   <article>
     <span class="image">
       <img src="{{ tile.image }}" alt="{{ tile.title }}" />
@@ -19,6 +19,6 @@
       <p>{{ tile.description }}</p>
     </header>
   </article>
-    {% endif %}
+   
   {% endfor %}
 </section>

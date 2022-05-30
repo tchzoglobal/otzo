@@ -3,6 +3,7 @@ layout: page
 title: Tech specs
 image: assets/images/pic01.jpg
 nav-menu: true
+frontpage: show
 ---
 
 <div id="main" class="alt">

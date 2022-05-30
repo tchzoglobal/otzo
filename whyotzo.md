@@ -4,6 +4,7 @@ layout: landing
 description: 'Get an Instant power for Your Customer and Garage'
 image: assets/images/pic07.jpg
 nav-menu: true
+frontpage: show
 ---
 
 <!-- Main -->

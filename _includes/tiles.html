@@ -5,6 +5,7 @@
 {% elsif 'pages' == site.tiles-source %}
     {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
 {% endif %}
+{% if page.frontpage == "show" %}
 <section id="one" class="tiles">
   {% for tile in tiles limit:site.tiles-count %}
   <article>
@@ -19,6 +20,7 @@
   </article>
   {% endfor %}
 </section>
+{% endif %}
 
 
 
